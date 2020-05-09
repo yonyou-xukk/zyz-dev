@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cimc.assistant</string>
+				<string>com.ifbpmob.platform</string>
 				<key>bundle-version</key>
 				<string>1.1.7</string>
 				<key>kind</key>
